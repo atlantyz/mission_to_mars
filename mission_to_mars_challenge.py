@@ -115,7 +115,5 @@ for i in range(len(links)):
     
     browser.back()
 
-
-# 5. Quit the browser
 #browser.quit()
 
